@@ -2,6 +2,8 @@
 
 This GitHub is primarily for managing community input and also provides the CMM in two file formats - Excel, if you trust me and want some formatting already done for you; and CSV, if you want to do some formatting yourself and think I'm sketchy. For the full model in your browser and other supporting information, see [the project website](https://www.redteammaturity.com).
 
+Inside the Example_Implementations folder are variations on the base spreadsheet submitted by the community. See the README for an inventory of examples, credits, and a brief synopsis of each. Some of these examples are also further detailed on the [main site](https://www.redteammaturity.com/implement)
+
 # Here to Contribute?
 
 Thanks for participating! Please submit a feature request with your suggested changes after reading the guidance below.
